@@ -14,10 +14,138 @@
             filePath = "CatchNewsRxSwift/NewsTableViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "16"
-            endingLineNumber = "16"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87594C9F-4B99-43F2-BC91-7912EC4B538C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatchNewsRxSwift/Controllers/NewsList/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACDC5E3B-C4B5-4B0E-9537-EADF63F9D4FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatchNewsRxSwift/Controllers/NewsList/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7A77F01-9E8A-4AC6-8C22-02ED683E79CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatchNewsRxSwift/Controllers/NewsList/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "populateNews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B7A77F01-9E8A-4AC6-8C22-02ED683E79CF - 992a928416eaace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchNewsRxSwift.NewsTableViewController.(populateNews in _4FC6E517E555482DDB8D406C1BA47C79)() -&gt; ()"
+                  moduleName = "CatchNewsRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/online%20classes/CatchNewsRxSwift/CatchNewsRxSwift/Controllers/NewsList/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "943">
+               </Location>
+               <Location
+                  uuid = "B7A77F01-9E8A-4AC6-8C22-02ED683E79CF - a940029ef449cbd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Optional&lt;Swift.Array&lt;CatchNewsRxSwift.Article&gt;&gt;) -&gt; () in CatchNewsRxSwift.NewsTableViewController.(populateNews in _4FC6E517E555482DDB8D406C1BA47C79)() -&gt; ()"
+                  moduleName = "CatchNewsRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/online%20classes/CatchNewsRxSwift/CatchNewsRxSwift/Controllers/NewsList/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "175">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F02227C-E104-438C-9366-B5F32D1C5A7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatchNewsRxSwift/Controllers/NewsList/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "populateNews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9F02227C-E104-438C-9366-B5F32D1C5A7B - 992a928416eaace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchNewsRxSwift.NewsTableViewController.(populateNews in _4FC6E517E555482DDB8D406C1BA47C79)() -&gt; ()"
+                  moduleName = "CatchNewsRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/online%20classes/CatchNewsRxSwift/CatchNewsRxSwift/Controllers/NewsList/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "730">
+               </Location>
+               <Location
+                  uuid = "9F02227C-E104-438C-9366-B5F32D1C5A7B - 9dc140fee2010812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Foundation.Data) -&gt; Swift.Optional&lt;Swift.Array&lt;CatchNewsRxSwift.Article&gt;&gt; in CatchNewsRxSwift.NewsTableViewController.(populateNews in _4FC6E517E555482DDB8D406C1BA47C79)() -&gt; ()"
+                  moduleName = "CatchNewsRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/online%20classes/CatchNewsRxSwift/CatchNewsRxSwift/Controllers/NewsList/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
