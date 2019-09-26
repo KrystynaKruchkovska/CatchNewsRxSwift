@@ -8,11 +8,14 @@
 
 import UIKit
 
-class BaseViewController: UIViewController {
-
+class NewsTableViewController: UITableViewController {
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .yellow
+        view.backgroundColor = .green
+        navigationController?.navigationBar.prefersLargeTitles = true
+        title = "Daily News"
 
         // Do any additional setup after loading the view.
     }

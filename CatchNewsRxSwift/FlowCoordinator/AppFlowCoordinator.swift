@@ -32,7 +32,7 @@ class AppFlowCoordinator: Coordinator {
 
     private func runBaseController() {
 
-        let vc = BaseViewController()
+        let vc = NewsTableViewController()
         rootViewController.show(vc, sender: nil)
 
     }
