@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0413A2E4233DFCA20061CF9B /* URLREquest+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0413A2E3233DFCA20061CF9B /* URLREquest+Extension.swift */; };
 		04328395233CD25F005F2709 /* TeamManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04328394233CD25F005F2709 /* TeamManager.swift */; };
 		04328398233CE10C005F2709 /* APIRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04328397233CE10C005F2709 /* APIRequest.swift */; };
 		0432839B233CE61F005F2709 /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0432839A233CE61F005F2709 /* Article.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0413A2E3233DFCA20061CF9B /* URLREquest+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "URLREquest+Extension.swift"; sourceTree = "<group>"; };
 		04328394233CD25F005F2709 /* TeamManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamManager.swift; sourceTree = "<group>"; };
 		04328397233CE10C005F2709 /* APIRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIRequest.swift; sourceTree = "<group>"; };
 		0432839A233CE61F005F2709 /* Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
@@ -50,6 +52,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0413A2E2233DFC7B0061CF9B /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				0413A2E3233DFCA20061CF9B /* URLREquest+Extension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		04328393233CD24A005F2709 /* Managers */ = {
 			isa = PBXGroup;
 			children = (
@@ -112,6 +122,7 @@
 		04A97581233CC1A600CCAF7A /* CatchNewsRxSwift */ = {
 			isa = PBXGroup;
 			children = (
+				0413A2E2233DFC7B0061CF9B /* Extensions */,
 				0432839C233CE9B3005F2709 /* Controllers */,
 				04328399233CE60A005F2709 /* Models */,
 				04328396233CDF7C005F2709 /* Networking */,
@@ -277,6 +288,7 @@
 				0432839B233CE61F005F2709 /* Article.swift in Sources */,
 				04A97583233CC1A600CCAF7A /* AppDelegate.swift in Sources */,
 				04A9759B233CC24B00CCAF7A /* AppFlowCoordinator.swift in Sources */,
+				0413A2E4233DFCA20061CF9B /* URLREquest+Extension.swift in Sources */,
 				04A97585233CC1A600CCAF7A /* SceneDelegate.swift in Sources */,
 				04A97598233CC21600CCAF7A /* NewsTableViewController.swift in Sources */,
 				04328398233CE10C005F2709 /* APIRequest.swift in Sources */,
